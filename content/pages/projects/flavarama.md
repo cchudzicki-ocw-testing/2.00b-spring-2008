@@ -14,7 +14,7 @@ uid: 4f534e0d-4171-d93e-6014-b15ef2d22a9f
 
 Red Team: {{% resource_link e3e27187-dcf0-6942-6600-008fd8131f22 "R2D2ooth" %}} Blue Team: Flava-Rama Yellow Team: {{% resource_link 5aa4ce93-130c-fe53-ee18-a4f687a688b4 "HP Magical Brush" %}} Green Team: {{% resource_link a8594227-ff84-c9cf-4512-4111e2ddfbb0 "The BatCave" %}} Purple Team: {{% resource_link 3d01aa12-2a1c-1d9f-61a5-eef69d2142f8 "FlossZilla" %}}
 
-{{< resource 0d967e8e-f293-1867-556a-00002d878845 "Flava-Rama." >}}
+{{< resource "0d967e8e-f293-1867-556a-00002d878845" >}}
 
 A fun toothpaste dispenser that lets kids of all ages mix and match their favorite flavors into a new and wonderful toothpaste.
 

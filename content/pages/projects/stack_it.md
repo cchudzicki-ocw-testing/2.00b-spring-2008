@@ -20,7 +20,7 @@ Stack-It
 {{% resource_link 026d512b-cacd-31e3-1f0b-ae2115d8ab1c "Roli Boli" %}}  
 {{% resource_link 5dec2193-42ab-d378-02a0-e288ac445eba "Magnimals" %}}
 
-{{< resource 0de5ce63-c983-3d57-c4a9-26d76d0b6476 "Stack-It." >}}
+{{< resource "0de5ce63-c983-3d57-c4a9-26d76d0b6476" >}}
 
 Stack-It is a game of making the tallest structure using six differently shaped playing pieces. Players alternate placing pieces on the stand by rolling a die. All playing pieces are made from four lengths of square cross-section wooden dowel. The game is stored in a collapsible plastic tube.
 

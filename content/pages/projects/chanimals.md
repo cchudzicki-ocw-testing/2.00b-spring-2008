@@ -20,7 +20,7 @@ Chanimals
 {{% resource_link 026d512b-cacd-31e3-1f0b-ae2115d8ab1c "Roli Boli" %}}  
 {{% resource_link 5dec2193-42ab-d378-02a0-e288ac445eba "Magnimals" %}}
 
-{{< resource 213cd80f-e679-6b3d-92d3-07751d1cfede "Chanimals." >}}
+{{< resource "213cd80f-e679-6b3d-92d3-07751d1cfede" >}}
 
 Chanimals are Brazil-native plush animals with interchangable bodyparts. They feature a custom design snap fitting with long tapered engagement length for easy attachment. The Chanimals also come with a boardgame that involves escaping from a mad zookeeper.
 

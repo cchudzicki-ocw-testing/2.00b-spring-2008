@@ -20,7 +20,7 @@ Flippin' Flyers
 {{% resource_link 026d512b-cacd-31e3-1f0b-ae2115d8ab1c "Roli Boli" %}}  
 {{% resource_link 5dec2193-42ab-d378-02a0-e288ac445eba "Magnimals" %}}
 
-{{< resource 9c1fe386-4830-73db-25f4-eda41cc2dfa1 "Flippin' flyers." >}}
+{{< resource "9c1fe386-4830-73db-25f4-eda41cc2dfa1" >}}
 
 Flippin' Flyers is an elastic-propelled foam airplane kit. It contains an assortment of differnent shaped and colored wings and bodies that allow for customization and experimentation. The Flippin' Flyer components are stored in an airplane hanger travel case.
 

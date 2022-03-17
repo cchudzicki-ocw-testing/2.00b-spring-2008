@@ -20,7 +20,7 @@ Pirate Pals
 {{% resource_link 026d512b-cacd-31e3-1f0b-ae2115d8ab1c "Roli Boli" %}}  
 {{% resource_link 5dec2193-42ab-d378-02a0-e288ac445eba "Magnimals" %}}
 
-{{< resource a63fc181-7e24-a988-75e1-fe2bbe1feb4d "Pirate pals." >}}
+{{< resource "a63fc181-7e24-a988-75e1-fe2bbe1feb4d" >}}
 
 Pirate Pals are a collection of sea-creature pirate friends with foam appendage inserts. A storybook of adventure tales accompanies the Pirate Pals. The Pirate Pals can be used both as a fantasy toy to act out adventures and as a construction toy in mixing appendages.
 
