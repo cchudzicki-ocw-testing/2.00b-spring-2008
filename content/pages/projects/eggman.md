@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -20,7 +21,7 @@ Eggman and Friends
 {{% resource_link 026d512b-cacd-31e3-1f0b-ae2115d8ab1c "Roli Boli" %}}  
 {{% resource_link 5dec2193-42ab-d378-02a0-e288ac445eba "Magnimals" %}}
 
-{{< resource 19bafc3d-710d-97b0-5a46-0bbc584ac6e6 "Eggman and friends." >}}
+{{< resource "19bafc3d-710d-97b0-5a46-0bbc584ac6e6" >}}
 
 Eggman and Friends are a collection of six egg-shaped tops each having a special "power" when spinning such as singing or illuminating ([MOV - 23.3 MB](/ans7870/2/2.00b/s08/stella.mov)). Some Eggs are activated using a custom centrifugal force switch. Each Egg comes in a special egg-carton with a lightning bolt lock.
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of completed projects for the course.
+  Includes student projects from 2006, 2007, and 2008.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
